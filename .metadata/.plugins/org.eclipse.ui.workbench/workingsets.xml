@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1518242591784_1" label="cloudsim-package" name="cloudsim-package">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudsim" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/modules" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/distribution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudsim-examples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudsim-package" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/documentation" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1514979572585_0" label="Window Working Set" name="Aggregate for window 1514979572585"/>
+</workingSetManager>
